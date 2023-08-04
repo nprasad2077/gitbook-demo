@@ -1,8 +1,22 @@
-# 🔎 Quick Start
+---
+description: >-
+  A quick start guide can be good to help folks get up and running with your API
+  in a few steps. Some people prefer diving in with the basics rather than
+  meticulously reading every page of documentation
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-{% hint style="info" %}
-**Good to know:** A quick start guide can be good to help folks get up and running with your API in a few steps. Some people prefer diving in with the basics rather than meticulously reading every page of documentation!
-{% endhint %}
+# 🔎 Quick Start
 
 ## Get your API keys
 
@@ -30,9 +44,7 @@ pip install --upgrade myapi
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-**Good to know:** Using tabs to separate out different languages is a great way to present technical examples or code documentation without cramming your docs with extra sections or pages per language.
-{% endhint %}
+***
 
 Take a look at how you might call this method using our official libraries, or via `curl`:
 

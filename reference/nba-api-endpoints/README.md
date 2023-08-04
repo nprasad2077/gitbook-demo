@@ -11,3 +11,7 @@ Dive into the specifics of each API endpoint by checking out our complete docume
 {% content-ref url="top-scorers-by-playoffs-or-season.md" %}
 [top-scorers-by-playoffs-or-season.md](top-scorers-by-playoffs-or-season.md)
 {% endcontent-ref %}
+
+{% content-ref url="players-with-the-most-assists-and-rebounds.md" %}
+[players-with-the-most-assists-and-rebounds.md](players-with-the-most-assists-and-rebounds.md)
+{% endcontent-ref %}

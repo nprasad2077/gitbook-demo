@@ -13,7 +13,7 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
 ---
 
 # 🙏 Welcome!
@@ -30,6 +30,5 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 [quick-start.md](quick-start.md)
 {% endcontent-ref %}
 
-## Want to deep dive?
+<figure><img src="https://images.unsplash.com/photo-1640340434855-6084b1f4901c?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjaGFydHxlbnwwfHx8fDE2OTExNzUzMDR8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption><p>Big Data</p></figcaption></figure>
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
