@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 🏀 Get NBA Player Stats by Name or Season
+# 📊 Get NBA Player Stats by Name or Season
 
 ## Get all NBA Players by Season.
 
