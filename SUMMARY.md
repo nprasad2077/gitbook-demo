@@ -9,5 +9,4 @@
   * [📊 Get NBA Player Stats by Name or Season](reference/nba-api-endpoints/get-nba-player-stats-by-name-or-season.md)
   * [🏀 Top Scorers by Playoffs or Season](reference/nba-api-endpoints/top-scorers-by-playoffs-or-season.md)
   * [👍 Players with the Most Assists and Rebounds](reference/nba-api-endpoints/players-with-the-most-assists-and-rebounds.md)
-  * [Page](reference/nba-api-endpoints/page.md)
-  * [Pets](reference/nba-api-endpoints/pets.md)
+  * [🏆 Player Shot Chart Data](reference/nba-api-endpoints/player-shot-chart-data.md)

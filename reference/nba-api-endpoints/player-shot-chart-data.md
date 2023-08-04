@@ -1,24 +1,11 @@
 ---
+description: Accurate shot chart Data that you can plot on an NBA court.
 cover: >-
   https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxiYXNrZXRiYWxsfGVufDB8fHx8MTY5MTE2ODQxOXww&ixlib=rb-4.0.3&q=85
 coverY: 742
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
-# 👍 Players with the Most Assists and Rebounds
+# 🏆 Player Shot Chart Data
 
 Get Top Assists in the Playoffs by Year
 
