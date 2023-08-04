@@ -1,22 +1,26 @@
 ---
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
-# Welcome!
+# 🙏 Welcome!
 
-## Welcome to MyAPI
+### Welcome to My API
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+&#x20;Here you'll find all the documentation you need to get up and running with the NBA Stats API.
 
 ## Want to jump right in?
 
@@ -29,7 +33,3 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 ## Want to deep dive?
 
 Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/nba-api-endpoints/" %}
-[nba-api-endpoints](reference/nba-api-endpoints/)
-{% endcontent-ref %}

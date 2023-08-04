@@ -4,8 +4,8 @@ Dive into the specifics of each API endpoint by checking out our complete docume
 
 ## Search for players by Name or Season
 
-{% content-ref url="get-all-nba-player-stats-by-name-or-season.md" %}
-[get-all-nba-player-stats-by-name-or-season.md](get-all-nba-player-stats-by-name-or-season.md)
+{% content-ref url="get-nba-player-stats-by-name-or-season.md" %}
+[get-nba-player-stats-by-name-or-season.md](get-nba-player-stats-by-name-or-season.md)
 {% endcontent-ref %}
 
 {% swagger method="get" path="" baseUrl="" summary="" %}
