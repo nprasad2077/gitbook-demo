@@ -1,6 +1,8 @@
-# 📚 NBA API Endpoints
+---
+description: Dive into each topic to explore the data you can obtain from each section!
+---
 
-Dive into the specifics of each API endpoint by checking out our complete documentation.
+# 📚 NBA API Endpoints
 
 ## Search for players by Name or Season
 
@@ -14,4 +16,8 @@ Dive into the specifics of each API endpoint by checking out our complete docume
 
 {% content-ref url="players-with-the-most-assists-and-rebounds.md" %}
 [players-with-the-most-assists-and-rebounds.md](players-with-the-most-assists-and-rebounds.md)
+{% endcontent-ref %}
+
+{% content-ref url="player-shot-chart-data.md" %}
+[player-shot-chart-data.md](player-shot-chart-data.md)
 {% endcontent-ref %}
